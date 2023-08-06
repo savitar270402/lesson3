@@ -1,0 +1,33 @@
+/* .text{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 30px;
+   font-weight:lighter ;
+   font-style:italic ; */
+   /* text-transform: capitalize; */
+   /* text-transform: uppercase;
+    color: aqua;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    text-shadow:-5px -4px -3px #999;
+    line-height: 20px
+;
+}
+.poragraf{
+    text-align: center;
+} */
+@font-face {
+    font-family: "ROBOTO";
+    src: url();
+}
+:root{
+    background: black;
+}
+.login:focus{
+
+}
+.login:hover{
+
+}
+li:first-child {
+    color: brown;
+}
